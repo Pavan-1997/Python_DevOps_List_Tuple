@@ -1,6 +1,6 @@
 ## LIST THE FILES IN THE LIST OF FOLDERS
 
-
+```
 import os
 folders = input("Please provide list of folders names with spaces in between:").split()
 
