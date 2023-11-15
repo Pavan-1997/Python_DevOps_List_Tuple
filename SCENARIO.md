@@ -19,3 +19,5 @@ for folder in folders:
         print(file)
 
 ```
+
+## ALTERNATIVELY
