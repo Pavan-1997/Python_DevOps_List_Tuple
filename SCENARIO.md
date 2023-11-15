@@ -23,7 +23,6 @@ for folder in folders:
 ### ALTERNATIVELY
 
 ```
-
 import os
 
 def list_files_in_folder(folder_path):
